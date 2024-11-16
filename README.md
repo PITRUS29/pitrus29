@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm PITRUS29</h1>
 <h3 align="center">A passionate frontend developer from Poland!</h3>
 
-# 💫 About Me:
 <h1>🌱 I’m currently learning:</h1>
 
 
